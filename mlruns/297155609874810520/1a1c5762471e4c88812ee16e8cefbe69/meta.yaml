@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/297155609874810520/1a1c5762471e4c88812ee16e8cefbe69/artifacts
+end_time: 1747330046856
+entry_point_name: ''
+experiment_id: '297155609874810520'
+lifecycle_stage: active
+run_id: 1a1c5762471e4c88812ee16e8cefbe69
+run_name: classy-goose-603
+run_uuid: 1a1c5762471e4c88812ee16e8cefbe69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747330046754
+status: 3
+tags: []
+user_id: adars

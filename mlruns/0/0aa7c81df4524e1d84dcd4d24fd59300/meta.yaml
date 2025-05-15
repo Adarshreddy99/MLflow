@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0aa7c81df4524e1d84dcd4d24fd59300/artifacts
+end_time: 1747330837280
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0aa7c81df4524e1d84dcd4d24fd59300
+run_name: shivering-elk-806
+run_uuid: 0aa7c81df4524e1d84dcd4d24fd59300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747330836491
+status: 3
+tags: []
+user_id: adars
