@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adars/Desktop/MLflow/mlruns/165557510659499383/99436f8a6c2b4657be23c6fe954295f9/artifacts
+end_time: 1747334417280
+entry_point_name: ''
+experiment_id: '165557510659499383'
+lifecycle_stage: active
+run_id: 99436f8a6c2b4657be23c6fe954295f9
+run_name: bald-squid-276
+run_uuid: 99436f8a6c2b4657be23c6fe954295f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747334417180
+status: 3
+tags: []
+user_id: adars

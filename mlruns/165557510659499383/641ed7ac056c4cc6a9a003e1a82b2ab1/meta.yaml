@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adars/Desktop/MLflow/mlruns/165557510659499383/641ed7ac056c4cc6a9a003e1a82b2ab1/artifacts
+end_time: 1747334417157
+entry_point_name: ''
+experiment_id: '165557510659499383'
+lifecycle_stage: active
+run_id: 641ed7ac056c4cc6a9a003e1a82b2ab1
+run_name: amazing-colt-44
+run_uuid: 641ed7ac056c4cc6a9a003e1a82b2ab1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747334417061
+status: 3
+tags: []
+user_id: adars

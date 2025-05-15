@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adars/Desktop/MLflow/mlruns/165557510659499383/3fc207672ee9437693618d21614e453e/artifacts
+end_time: 1747334417375
+entry_point_name: ''
+experiment_id: '165557510659499383'
+lifecycle_stage: active
+run_id: 3fc207672ee9437693618d21614e453e
+run_name: marvelous-calf-613
+run_uuid: 3fc207672ee9437693618d21614e453e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747334417299
+status: 3
+tags: []
+user_id: adars

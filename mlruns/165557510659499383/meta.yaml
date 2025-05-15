@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/adars/Desktop/MLflow/mlruns/165557510659499383
+creation_time: 1747334399053
+experiment_id: '165557510659499383'
+last_update_time: 1747334399053
+lifecycle_stage: active
+name: breast-cancer-rf-hp

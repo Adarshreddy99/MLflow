@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adars/Desktop/MLflow/mlruns/165557510659499383/dae0e644fd52473b82725f076c586dfd/artifacts
+end_time: 1747334431782
+entry_point_name: ''
+experiment_id: '165557510659499383'
+lifecycle_stage: active
+run_id: dae0e644fd52473b82725f076c586dfd
+run_name: polite-pig-494
+run_uuid: dae0e644fd52473b82725f076c586dfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747334399457
+status: 3
+tags: []
+user_id: adars

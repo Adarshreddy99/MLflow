@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adars/Desktop/MLflow/mlruns/165557510659499383/928fdec6dbcf40358dc9d5dfead10e41/artifacts
+end_time: 1747334415993
+entry_point_name: ''
+experiment_id: '165557510659499383'
+lifecycle_stage: active
+run_id: 928fdec6dbcf40358dc9d5dfead10e41
+run_name: puzzled-bee-109
+run_uuid: 928fdec6dbcf40358dc9d5dfead10e41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747334415745
+status: 3
+tags: []
+user_id: adars

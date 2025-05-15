@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adars/Desktop/MLflow/mlruns/165557510659499383/1bdd6afdb134427c846ef60f99d8d9e8/artifacts
+end_time: 1747334415610
+entry_point_name: ''
+experiment_id: '165557510659499383'
+lifecycle_stage: active
+run_id: 1bdd6afdb134427c846ef60f99d8d9e8
+run_name: classy-hawk-580
+run_uuid: 1bdd6afdb134427c846ef60f99d8d9e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747334415562
+status: 3
+tags: []
+user_id: adars

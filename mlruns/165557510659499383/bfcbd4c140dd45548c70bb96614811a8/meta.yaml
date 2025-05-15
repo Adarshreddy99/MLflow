@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/adars/Desktop/MLflow/mlruns/165557510659499383/bfcbd4c140dd45548c70bb96614811a8/artifacts
+end_time: 1747334417009
+entry_point_name: ''
+experiment_id: '165557510659499383'
+lifecycle_stage: active
+run_id: bfcbd4c140dd45548c70bb96614811a8
+run_name: rambunctious-cow-222
+run_uuid: bfcbd4c140dd45548c70bb96614811a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747334416928
+status: 3
+tags: []
+user_id: adars
